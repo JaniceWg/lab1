@@ -1,0 +1,135 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "Location": "University College"
+        },
+        "geometry": {
+          "coordinates": [
+            -79.39518181885732,
+            43.66287470475757
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Location": "Hart House"
+        },
+        "geometry": {
+          "coordinates": [
+            -79.3939727455917,
+            43.66393166948566
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Location": "Christie Mansion"
+        },
+        "geometry": {
+          "coordinates": [
+            -79.39026577232325,
+            43.66400019071631
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Location": "Massey College"
+        },
+        "geometry": {
+          "coordinates": [
+            -79.39736793123916,
+            43.664953428078405
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Location": "Wallberg Memorial Building"
+        },
+        "geometry": {
+          "coordinates": [
+            -79.39531532895006,
+            43.65915966871137
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Location": "University College"
+        },
+        "geometry": {
+          "coordinates": [
+            -79.39518181885732,
+            43.66287470475757
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Location": "Hart House"
+        },
+        "geometry": {
+          "coordinates": [
+            -79.3939727455917,
+            43.66393166948566
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Location": "Christie Mansion"
+        },
+        "geometry": {
+          "coordinates": [
+            -79.39026577232325,
+            43.66400019071631
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Location": "Massey College"
+        },
+        "geometry": {
+          "coordinates": [
+            -79.39736793123916,
+            43.664953428078405
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Location": "Wallberg Memorial Building"
+        },
+        "geometry": {
+          "coordinates": [
+            -79.39531532895006,
+            43.65915966871137
+          ],
+          "type": "Point"
+        }
+      }
+    ]
+  }
